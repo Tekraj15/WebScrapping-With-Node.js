@@ -4,7 +4,7 @@ Node.js is a great tool to use for web scraping. It allows implementing web scra
 
 <h3 align="left">Before moving Ahead,</h3>
 <p align="left"> 
-📌 The great advantage of web scrapping with Node.js is it's used havily in companies for building SAAS Data pipeline i.e. converting data anaysis and insights into software  
+📌 The great advantage of web scrapping with Node.js is that it's used havily in companies for building SAAS Data pipeline i.e. converting data anaysis and insights into software  
    product.
   
 
