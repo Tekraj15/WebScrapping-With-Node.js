@@ -20,8 +20,7 @@ When you want to scrape data, then you have to list out parent HTML tags & check
     <li>Install & Call the required libraries</li>
     <li>Select the Website & Data needed to Scrape</li>
     <li>Set the URL & Check the Response Code</li>
-    <li>Inspect & Find the Proper HTML tags </li>
-    
+    <li>Inspect & Find the Proper HTML tags </li> 
     <li>Include the HTML tags in our Code</li>
     <li>Cross-check the Scraped Data</li>
    </ol>
