@@ -15,7 +15,7 @@ Node.js is a great tool to use for web scraping. It allows implementing web scra
 When you want to scrape data, then you have to list out parent HTML tags & check respective child HTML tag to extract the data by repeating this activity.
 
    <h2> Steps Required for Web Scraping</h2>
- <ul>  
+ <ol>  
 Creating the package.json file
 Install & Call the required libraries
 Select the Website & Data needed to Scrape
@@ -23,7 +23,7 @@ Set the URL & Check the Response Code
 Inspect & Find the Proper HTML tags
 Include the HTML tags in our Code
 Cross-check the Scraped Data
-   </ul>
+   </ol>
    
    </body>
    </html>
