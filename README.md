@@ -16,13 +16,14 @@ When you want to scrape data, then you have to list out parent HTML tags & check
 
    <h2> Steps Required for Web Scraping</h2>
  <ol>  
-Creating the package.json file
-Install & Call the required libraries
-Select the Website & Data needed to Scrape
-Set the URL & Check the Response Code
-Inspect & Find the Proper HTML tags
-Include the HTML tags in our Code
-Cross-check the Scraped Data
+    <li>Creating the package.json file.</li>
+    <li>Install & Call the required libraries</li>
+    <li>Select the Website & Data needed to Scrape</li>
+    <li>Set the URL & Check the Response Code</li>
+    <li>Inspect & Find the Proper HTML tags </li>
+    
+    <li>Include the HTML tags in our Code</li>
+    <li>Cross-check the Scraped Data</li>
    </ol>
    
    </body>
